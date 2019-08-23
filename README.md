@@ -10,7 +10,7 @@ Libraries: CV2 Numpy
 For this project, I was interestested in blending two images in slow motion.
 
 # 3. File Descriptions
-There is one .py file available that contains the code. 
+There is one notebook file available that contains the code. 
 
 # 4. Licensing & Acknowledgement
 Feel free to use the code here as you like.
